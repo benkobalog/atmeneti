@@ -25,11 +25,6 @@ Akik nem nagyon kódolnak:
 
 ![stackoverflow](devs.png)
 
-## Programozási nyelvek
-
-Népszerűség szerinti sorrend a redmonkról:
-http://redmonk.com/sogrady/2018/03/07/language-rankings-1-18/
-![langs](langs.png)
 
 ## Egy átlagos nap
 
@@ -37,7 +32,11 @@ http://redmonk.com/sogrady/2018/03/07/language-rankings-1-18/
 
 Sok a flexibilis munkaidős állás. Járhatsz 10-re vagy 11-re, (vagy reggel 7-re).
 
-## Mi az a kódolás?
+## Programozás / Szoftverfejlesztés / Kódolás
+
+Népszerűség szerinti sorrend a redmonkról:
+http://redmonk.com/sogrady/2018/03/07/language-rankings-1-18/
+![langs](langs.png)
 
 Az informatikában forráskódon (angolul: source code) egy olyan szöveg értendő, ami egy leíró nyelv jelöléseinek, vagy egy programozási nyelv definícióinak és/vagy utasításainak sorozatát tartalmazza.
 
