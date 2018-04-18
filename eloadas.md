@@ -68,7 +68,7 @@ Vagy építhetsz egy robotot, ami a szemedbe világít...
 
 ![laser1](https://hackadaycom.files.wordpress.com/2017/04/laser-eye.png?w=800)
 
-![laser1](https://i.giphy.com/IZ67uJUPhhkcw.gif)
+![laser2](https://i.giphy.com/IZ67uJUPhhkcw.gif)
 
 
 ## Szakterületek
@@ -94,9 +94,13 @@ Akik nem nagyon kódolnak:
 
 ## Egy átlagos nap
 
+![desk](https://www.laurencegellert.com/content/uploads/2013/12/desk1.jpg)
+
 ![workday](workday.png)
 
 Sok a flexibilis munkaidős állás. Járhatsz 10-re vagy 11-re, (vagy reggel 7-re).
+
+![compiling](https://imgs.xkcd.com/comics/compiling.png)
 
 
 ## Továbbtanulás
