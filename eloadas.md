@@ -5,6 +5,15 @@ _Kb mindenhol_
 
 Telefonok, Internet, autók, repülők, orvosi műszerek, háztartási eszközök, gyárak automatizálása, robotok, stb...
 
+![car1](https://hips.hearstapps.com/pop.h-cdn.co/assets/cm/15/05/640x550/54cada9a95d45_-_car-computer-01-0212-de.jpg?resize=480:*)
+
+Vagy építhetsz egy robotot, ami a szemedbe világít...
+
+![laser1](https://hackadaycom.files.wordpress.com/2017/04/laser-eye.png?w=800)
+
+![laser1](https://i.giphy.com/IZ67uJUPhhkcw.gif)
+
+
 ## Szakterületek
 
 Akik kódolnak:
@@ -101,6 +110,6 @@ A legközelebbi egyetemi képzések a mérnökinformatika, programtervező infor
     * Csak ha pontosan tudod, hogy mit szeretnél megtanulni
     
 
-### Egyéb
-* Minden esetben fontos, hogy érdekeljen a szakma és tanulj magadtól, ha akarsz előre jutni. De azok is jól elvannak akik nem erőltetik meg magukat túlzottan.
-* Angolul érdemes jól megtanulni
+### Mihez érdemes érteni
+* Angol
+* Google
