@@ -5,7 +5,7 @@ _Kb mindenhol_
 
 Telefonok, Internet, autók, repülők, orvosi műszerek, háztartási eszközök, gyárak automatizálása, robotok, stb...
 
-![car1](https://hips.hearstapps.com/pop.h-cdn.co/assets/cm/15/05/640x550/54cada9a95d45_-_car-computer-01-0212-de.jpg?resize=480:*)
+![car1](car.png)
 
 Vagy építhetsz egy robotot, ami a szemedbe világít...
 
