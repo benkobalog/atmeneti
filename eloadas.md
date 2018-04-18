@@ -3,7 +3,7 @@
 ## Hol használnak számítógépeket?
 _Kb mindenhol_
 
-Telefon, internet, autó, repülő, orvosi műszerek, háztartási eszközök, gyárak automatizálása, robotok, stb...
+Telefonok, Internet, autók, repülők, orvosi műszerek, háztartási eszközök, gyárak automatizálása, robotok, stb...
 
 ## Szakterületek
 
@@ -44,12 +44,14 @@ Az informatikában forráskódon (angolul: source code) egy olyan szöveg érten
 ```scala
 // Scala
 def add(x: Int, y: Int) = x + y
+
 add(5, 7)
 ```
 
 ```clojure
 ; Clojure
 (defn add [x y] (+ x y))
+
 (add 5 7)
 ```
 
@@ -58,6 +60,7 @@ add(5, 7)
 private static int add(int x, int y) {
     return x + y;
 }
+
 add(5, 7);
 ```
 
@@ -73,9 +76,12 @@ add(5, 7)
 -- Haskell
 add :: Integer -> Integer -> Integer
 add x y =  x + y
+
+add 5 7
 ```
 
 ## Továbbtanulás
+A legközelebbi egyetemi képzések a mérnökinformatika, programtervező informatikus és hasonlók. De sokan lesznek szoftverfejlesztők más szakokról is, pl: villamosmérnöki, matek, fizika, gépészmérnöki, stb..
 
 ### Lehetőségek
 * Bsc, Egyetem
