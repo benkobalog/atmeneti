@@ -91,7 +91,6 @@ Akik nem nagyon kódolnak:
 
 ![stackoverflow](devs.png)
 
-
 ## Egy átlagos nap
 
 ![desk](https://www.laurencegellert.com/content/uploads/2013/12/desk1.jpg)
@@ -102,6 +101,10 @@ Sok a flexibilis munkaidős állás. Járhatsz 10-re vagy 11-re, (vagy reggel 7-
 
 ![compiling](https://imgs.xkcd.com/comics/compiling.png)
 
+
+## Egy átlagos hónap
+
+![salary](https://www.hwsw.hu/kepek/hirek/2017/03/hays_fejlesztok_2017.jpg)
 
 ## Továbbtanulás
 A legközelebbi egyetemi képzések a mérnökinformatika, programtervező informatikus és hasonlók. De sokan lesznek szoftverfejlesztők más szakokról is, pl: villamosmérnöki, matek, fizika, gépészmérnöki, stb..
